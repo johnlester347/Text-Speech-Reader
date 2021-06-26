@@ -4,7 +4,7 @@ const textarea = document.getElementById('text');
 const readBtn = document.getElementById('read');
 const toggleBtn = document.getElementById('toggle');
 const closeBtn = document.getElementById('close');
-const eychone = document.querySelector('h1');
+const eychone = document.querySelector('h2');
 
 
 const data = [
